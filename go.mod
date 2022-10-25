@@ -1,4 +1,4 @@
-module github.com/dennis-tra/shamir
+module github.com/Exordium-Limited/shamir
 
 go 1.18
 
